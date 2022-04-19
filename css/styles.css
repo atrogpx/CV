@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: #DFF6FF;
+}
+hr {
+  margin-left: 0;
+  border-color: #D6D6D6;
+  border-style: inset none none;
+  width: 65%;
+}
+h1 {
+  color: #2D31FA;
+}
+h3 {
+  color: #5D8BF4;
+}
